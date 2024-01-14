@@ -19,4 +19,13 @@ I'm a passionate Python Django developer and UI/UX Designer proficient in HTML5,
 - Portfolio: [My Portfolio](www.shirishabasnet.com.np)
 - Email: shirishabasnet07@gmail.com
 
+# GitHub Stats for Shirisha Basnet
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shirisha-basnet&show_icons=true&theme=radical)](https://github.com/shirisha-basnet)
+
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirisha-basnet&layout=compact&theme=radical)](https://github.com/shirisha-basnet)
+
+
 Feel free to reach out if you have any questions or would like to collaborate on a project!
